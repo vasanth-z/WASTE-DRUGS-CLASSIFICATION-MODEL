@@ -4,7 +4,7 @@ This project implements a Convolutional Neural Network (CNN) model to classify *
 
 ---
 
-## 📌 Table of Contents
+## 📌 Table of Contents:
 
 - [Overview](#overview)
 - [Project Goals](#project-goals)
