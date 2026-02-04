@@ -1,6 +1,9 @@
 # ♻️ Waste & Drug Classification using CNN (Real-Time)
 ## Waste Classification ML Model
 
+This repository contains a Machine Learning (ML) model for waste image classification.
+The ML model uses CNN and Python to classify waste into degradable and non-degradable categories and Drug Classifications.
+
 This project implements a Convolutional Neural Network (CNN) model to classify **waste** (biodegradable vs non-biodegradable) and **drugs** (legal vs illegal) from images or real-time webcam input. It uses **TensorFlow**, **OpenCV**, **Streamlit**, and **Tkinter** to enable an interactive experience for both web and desktop environments.
 
 ---
